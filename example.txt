@@ -1,4 +1,13 @@
 C0 commit in master
 C1 commit in master
 C2 commit in master
+C3 commit in bug-fix
+C4 commit in bug-fix
+C5 merge commit in bug-fix
+C6 commit in bug-fix
+C7 commit in bug-fix-experimental
+C8 commit in bug-fix-experimental
+C9 commit in bug-fix-experimental
 C10 commit in master
+C11 merge commit in bug-fix
+C12 commit in bug-fix
