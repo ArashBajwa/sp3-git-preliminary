@@ -2,4 +2,4 @@ C0 commit in master
 C1 commit in master
 C2 commit in master
 C3 commit in bug-fix
-C4 commit in bug-fix
+C4 commit in bug-fixC6 commit in bug-fix
